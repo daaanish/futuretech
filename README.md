@@ -1,12 +1,12 @@
-# FutureTech Website for LUMS Summer School 2023
+# FutureTech Website for LUMS Summer School 2024
 
-A repository for the website of the FutureTech Summer School at LUMS. This was built using TailwindCSS and HTML. The repository is forked from a template repository created by me for making static webpages.
+A repository for the website of the FutureTech Summer School at LUMS. This was built using TailwindCSS and HTML. The repository is forked from a template repository created by M. Jazlan for making static webpages.
 
 ## Note
 
-This website is deployed on Github pages, and is accessible at [https://summer-at-lums.github.io/](https://summer-at-lums.github.io/)
+This website is deployed on Github pages, and is accessible at [https://futuretech2024-summer.github.io/](https://futuretech2024-summer.github.io/)
 
-## Previews
+<!-- ## Previews
 
 ### Desktop
 
@@ -27,5 +27,5 @@ This website is deployed on Github pages, and is accessible at [https://summer-a
 <div style="display:flex;"> 
     <img src="./assets/Schedule%20-%20Mobile.png" width="auto" height="400" style="margin-right : 24px"/>
     <img src="./assets/Schedule%20-%20Mobile.png" width="auto" height="400"/>
-</div>
+</div> -->
 
