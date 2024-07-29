@@ -4,7 +4,7 @@ A repository for the website of the FutureTech Summer School at LUMS. This was b
 
 ## Note
 
-This website is deployed on Github pages, and is accessible at [https://futuretech-2024.github.io/](https://futuretech-2024.github.io/)
+This website is deployed on Github pages, and is accessible at [https://daaanish.github.io/futuretech24](https://daaanish.github.io/futuretech24)
 
 <!-- ## Previews
 
